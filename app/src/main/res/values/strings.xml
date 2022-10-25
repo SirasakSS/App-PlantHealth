@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Plan Health</string>
+
+    <string name="select">Select Item</string>
+
+    <string-array name="activity_item">
+        <item>ไม่ออกกำลังกายหรืออกกำลังกายน้อยมาก</item>
+        <item>ออกกำลังกายน้อยเล่นกีฬา 1-3 วัน/สัปดาห์</item>
+        <item>ออกกำลังกายปานกลางเล่นกีฬา 3-5 วัน/สัปดาห์</item>
+        <item>ออกกำลังกายหนักเล่นกีฬา 6-7 วัน/สัปดาห์</item>
+        <item>ออกกำลังกายหนักมากเป็นนักกีฬา</item>
+    </string-array>
+</resources>
